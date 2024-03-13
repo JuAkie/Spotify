@@ -1,0 +1,12 @@
+nav.navbar-transparente{
+    padding: 15px, 0px;
+    background: rgba(0,0,0,0.6);
+}
+
+body{
+    background: linear-gradient(to right, #8e44ad, #3498db);
+}
+
+.navbar-light .navbar-nav .navbar-lik :hover{
+    color: white;
+}
